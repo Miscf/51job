@@ -123,6 +123,7 @@ def get_detail_info(t_h, keyword):
 
     print(detail_info)
 
+    return detail_info
 
 def spider(keyword, maxlength):
     """
